@@ -1,0 +1,42 @@
+button{
+    color: rgb(29, 12, 21);
+    background: #eb29ad;
+}
+.as{
+    color: #eb29ad;
+}
+.ac{
+    color: red;
+}
+
+
+.dgt{
+    text-align: center;
+}
+.green{
+    color: #d8ed37;
+    background-color: #0df127;
+    height: 100px;
+    width: 100px;
+}
+.red{
+    color: pink;
+    background-color: #ff5100;
+    height: 100px;
+    width: 100px;
+}
+.blue{
+    color: aqua;
+    background-color: #4000ff;
+    height: 100px;
+    width: 100px;
+}
+.pp{
+    display: inline;
+}
+h1{
+    color: #5def31;
+}
+span{
+     color: #ff5100;
+}
